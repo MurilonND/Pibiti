@@ -1,0 +1,8 @@
+numpy
+torch
+pydicom
+matplotlib
+tcia_utils
+monai
+# rt_utils
+# scipy
