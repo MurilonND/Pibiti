@@ -1,3 +1,3 @@
 @echo on
-
+echo Openning the virtualenv...
 .\env\Scripts\activate

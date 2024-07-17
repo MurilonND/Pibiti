@@ -1,8 +1,6 @@
-numpy
-torch
-pydicom
+os
+tempfile
 matplotlib
-tcia_utils
-monai
-# rt_utils
-# scipy
+mpl_toolkits
+skimage
+numpy
